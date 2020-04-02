@@ -1,2 +1,3 @@
-# excel-challenge-JH
+# excel-challenge
  
+ Homework assignment for Jane H.
